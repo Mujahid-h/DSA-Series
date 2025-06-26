@@ -71,7 +71,7 @@ let n = parseInt(prompt("Enter a number: "));
 // for (let i = 1; i <= n; i++) {
 //   // Print leading spaces
 //   for (let j = i; j < n; j++) {
-//     process.stdout.write("  "); // 2 spaces for better alignment
+//     process.stdout.write("  "); // 2 spaces for better alignment and 1 for triangle pattern 
 //   }
 
 //   // Print stars with a space
